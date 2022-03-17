@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6E0PcslG+4KZWb1+E1DvttjU/qF9s2oUnorDnnBAsXq3aJix71lHVVj5OOqbwXyKknENTW3Uoy59xKcSnZsgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\selcuk\\Desktop\\OOP-Registration-Project-main\\KITAPSATIS\\KITAPSATIS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selcuk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\selcuk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\selcuk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\selcuk\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
